@@ -1,0 +1,232 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "I'm Harshvardhan Bhosale. I am a final year student at Indian Institute of Information Technology, Pune. I'm working with newest machine learning frameworks like Tensorflow, Pytorch and Keras. I also love solving DSA Problems!",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "DiveDash",
+      "startDate": "2023",
+      "description": "A D&I monitoring Dashboard to assist IT Firms in monitoring the employee diversity and integrity across different teams and different stages of the hiring process",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TensorflowJS"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "Firebase"
+        }
+      ]
+    },
+    {
+      "title": "Paper - I",
+      "startDate": "2023",
+      "description": " Optimised Mobilenet model with Inception modules for classification of deepfaked images in mobile devices, Paper under review at Indian Academy of Sciences - SADHANA, Springer",
+      "images": [
+        "images/portfolio/paper1/p1.png",
+        "images/portfolio/paper1/p2.png"
+      ],
+      "url": "https://docs.google.com/document/d/1Tp5w05kZwFayk04tFS54tD7rbKBpv68y/edit?usp=sharing&ouid=116671345886433939318&rtpof=true&sd=true",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Adobe Photoshop"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Tensorflow"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "Requests"
+        }
+      ]
+    },
+    {
+      "title": "PCAM",
+      "startDate": "2023",
+      "description": "PCAM : Post Cultivation Agro Mentoring Software, a machine learning-based web app to provide end to end assistance for post cultivation activities",
+      "images": [
+        "images/portfolio/pcam/p1.jpg",
+        "images/portfolio/pcam/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TensorflowJS"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "Firebase"
+        }
+      ]
+    },
+    {
+      "title": "AID",
+      "startDate": "2022",
+      "description": "AID : Automated Interpreter for differently abled, an Android application for audibly impaired that converts speech to ASL on the go",
+      "images": [
+        "images/portfolio/aid/p1.png",
+        "images/portfolio/aid/p2.jpg"
+      ],
+      "url": "https://github.com/HVBLEGENDZZ9/Video-Subtitle-Generator-TFLITE",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Tensorflow"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Paper - II",
+      "startDate": "2022",
+      "description": "Application of N-BEATS and BERT models for Indian stock market prediction, Paper under review at Indian Academy of Sciences - SADHANA, Springer",
+      "images": [
+        "images/portfolio/paper2/p1.png",
+        "images/portfolio/paper2/p2.png"
+      ],
+      "url": "https://drive.google.com/file/d/1qjvRfOCjypLiTvIG7jKfQ1BBDHCvM2rt/view?usp=sharing",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Tensorflow"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Requests"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "Pandas-TA"
+        }
+      ]
+    },
+    {
+      "title": "Wave-Muser",
+      "startDate": "2022",
+      "description": "Music Generation Using Wavenet, AI model to generate music from midi files of instrumental music",
+      "images": [
+        "images/portfolio/Music/p1.png",
+        "images/portfolio/Music/p2.png"
+      ],
+      "url": "https://github.com/HVBLEGENDZZ9/Music-generation-using-wavenet",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Scipy"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Tensorflow"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C++"
+        }
+      ]
+    },
+    {
+      "title": "Finance Hackathon",
+      "startDate": "2022",
+      "description": "Stock Market Prediction Using TCNNS, AI model to predict the movements of Indian Stock Market. This project was built as a part of IIT Roorkee's Finance Club",
+      "images": [
+        "images/portfolio/stock/p1.jpg",
+        "images/portfolio/stock/p2.png"
+      ],
+      "url": "https://github.com/HVBLEGENDZZ9/STOCK-MARKET-PREDICTION-USING-TCNNs",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "Tensorflow"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "C++"
+        }
+      ]
+    },
+    {
+      "title": "Crypto Predictor",
+      "startDate": "2022",
+      "description": "Replicating the N-BEATS paper to predict the price of Bitcoin",
+      "images": [
+        "images/portfolio/bitcoin/p1.jpg",
+        "images/portfolio/bitcoin/p2.jpg"
+      ],
+      "url": "https://github.com/HVBLEGENDZZ9/BITCOIN-PRICE-PREDICTION",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "Tensorflow"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "C++"
+       }]},
+{
+  "title": "Arogyam",
+  "startDate": "2021",
+  "description": "AI model to detect Indian Cuisine from food images",
+  "images": [
+    "images/portfolio/food/p1.jpg",
+    "images/portfolio/food/p2.jpg"
+  ],
+  "url": "https://github.com/HVBLEGENDZZ9/FOODVISION101",
+  "technologies": [
+    {
+      "class": "devicon-react-original",
+      "name": "Tensorflow"
+    },
+    {
+      "class": "devicon-javascript-plain",
+      "name": "Adobe Photoshop"
+   }]}
+  ],
+  "experience": [
+    {
+      "company": "Microsoft",
+      "title": "Software Development Engineering Intern",
+      "years": "May 2023 - Jul 2023",
+      "mainTech": ["Azure"],
+      "technologies": ["GPT-4", "Redis Cache", "C#", "Azure"],
+      "icon": ["fab fa-brands fa-microsoft experience-icon"]
+    },
+    {
+      "company": "Myraa Technologies",
+      "title": "Machine Learning Intern",
+      "years": "Jan 2022 - Feb 2022",
+      "mainTech": ["Tensorflow"],
+      "technologies": ["Keras", "GANs", "Python"],
+      "icon": ["fab fa-brands fa-python experience-icon"]
+    }
+  ]
+}

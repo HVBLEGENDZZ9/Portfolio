@@ -1,0 +1,72 @@
+{
+  "basic_info": {
+    "name": "Harshvardhan Bhosale",
+    "titles": [
+      "Tensorflow Developer",
+      "Software Development Engineer",
+      "Machine Learning Practitioner"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/HVBLEGENDZZ9",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/hvb_was_here",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Pythton",
+        "class": "devicon-python-plain",
+        "level": "95"
+      },
+      {
+        "name": "C++",
+        "class": "devicon-cplusplus-plain",
+        "level": "95"
+      },
+      {
+        "name": "Tensorflow",
+        "class": "devicon-tensorflow-original",
+        "level": "80"
+      },
+      {
+        "name": "PostgreSql",
+        "class": "devicon-postgresql-plain",
+        "level": "90"
+      },
+      {
+        "name": "C#",
+        "class": "devicon-csharp-plain",
+        "level": "70"
+      },
+      {
+        "name": "Pytorch",
+        "class": "devicon-pytorch-original",
+        "level": "75"
+      },
+      {
+        "name": "Javascript",
+        "class": "devicon-javascript-plain",
+        "level": "85"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "65"
+      },
+      {
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
+        "level": "60"
+      }
+    ]
+  }
+}
